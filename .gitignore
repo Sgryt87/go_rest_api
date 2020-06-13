@@ -125,3 +125,4 @@ fabric.properties
 /logfile
 /apiserver
 /pkg
+/src
