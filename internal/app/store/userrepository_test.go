@@ -3,8 +3,8 @@ package store_test
 import (
 	"testing"
 
-	"CODE/rest_api_youtube/internal/app/model"
-	"CODE/rest_api_youtube/internal/app/store"
+	"CODE/rest_api_yt/internal/app/model"
+	"CODE/rest_api_yt/internal/app/store"
 	"github.com/stretchr/testify/assert"
 )
 

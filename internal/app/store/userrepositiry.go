@@ -1,6 +1,6 @@
 package store
 
-import "CODE/rest_api_youtube/internal/app/model"
+import "CODE/rest_api_yt/internal/app/model"
 
 type UserRepository struct {
 	store *Store

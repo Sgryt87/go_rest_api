@@ -5,7 +5,7 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"CODE/rest_api_youtube/src/github.com/stretchr/testify/assert"
+	"CODE/rest_api_yt/src/github.com/stretchr/testify/assert"
 )
 
 func TestAPIServer_HandleHello(t *testing.T) {

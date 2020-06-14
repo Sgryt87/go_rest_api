@@ -4,9 +4,9 @@ import (
 	"io"
 	"net/http"
 
-	"CODE/rest_api_youtube/internal/app/store"
-	"CODE/rest_api_youtube/src/github.com/gorilla/mux"
-	"CODE/rest_api_youtube/src/github.com/sirupsen/logrus"
+	"CODE/rest_api_yt/internal/app/store"
+	"CODE/rest_api_yt/src/github.com/gorilla/mux"
+	"CODE/rest_api_yt/src/github.com/sirupsen/logrus"
 )
 
 type APIServer struct {
