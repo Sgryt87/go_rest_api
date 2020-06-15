@@ -4,8 +4,8 @@ import (
 	"flag"
 	"log"
 
-	"CODE/rest_api_yt/internal/app/apiserver"
-	"CODE/rest_api_yt/src/github.com/BurntSushi/toml"
+	"github.com/BurntSushi/toml"
+	"rest_api_yt/internal/app/apiserver"
 )
 
 var configPath string

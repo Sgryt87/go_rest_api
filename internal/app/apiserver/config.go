@@ -1,6 +1,6 @@
 package apiserver
 
-import "CODE/rest_api_yt/internal/app/store"
+import "rest_api_yt/internal/app/store"
 
 type Config struct {
 	BindAddr string `toml:"bind_addr"`
