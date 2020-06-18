@@ -1,0 +1,8 @@
+package store
+
+import "rest_api_yt/internal/app/model"
+
+type UserRepository interface {
+	Create(user *model.User) error
+	FindByEmail(string) (*model.User, error)
+}
