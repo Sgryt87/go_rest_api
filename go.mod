@@ -7,6 +7,7 @@ require (
 	github.com/davecgh/go-spew v1.1.1
 	github.com/go-ozzo/ozzo-validation/v4 v4.2.1
 	github.com/gorilla/mux v1.7.4
+	github.com/gorilla/sessions v1.2.0
 	github.com/hashicorp/go-uuid v1.0.2
 	github.com/jcmturner/gofork v1.0.0
 	github.com/jcmturner/rpc v1.1.1
